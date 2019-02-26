@@ -1,0 +1,6 @@
+Paquetes instalados :
+npm install spress --save
+
+npm install -g nodemon 
+npm install --save-dev nodemon  -->  Solo funciona en desarrolo
+npm install -g mongoose  --> Conectar a base de datos
